@@ -1,6 +1,6 @@
 ## Hello and welcome, ¡Hola!
 
-<div><h1>&#127183;</h1>🃏 We are two creative minds who like to play games, all kinnds of games.</div>
+<span style="font-size: 2rem;">&#127183;</span>🃏 We are two creative minds who like to play games, all kinnds of games.</div>
 Based in Madrid, &#127466;, 
 🌈 Contribution guidelines - how can the community get involved?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
